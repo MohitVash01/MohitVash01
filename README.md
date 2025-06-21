@@ -36,7 +36,7 @@ class Mohit:
         for trait in self.traits:
             print(f"   • {trait}")
         print(f"\n📣 Status: {self.status}")
-        print("\n💬 Let’s connect and build something awesome together!")
+        print("\n💬 Let’s connect and build something!")
 
 if __name__ == "__main__":
     me = Mohit()
